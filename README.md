@@ -23,8 +23,7 @@ To analyze the end-to-end sales funnel and identify major drop-off stages and op
 
 ## Tools Used
 - Power BI
-- SQL
-- Excel
+- Python for EDA
 
 ## Recommendations
 - Improve post-demo follow-up process.
